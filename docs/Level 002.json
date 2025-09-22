@@ -1,0 +1,53 @@
+{
+  "levelId": "Level 002",
+  "stages": [
+    {
+      "holes": [
+        {
+          "pos": [
+            2.07,
+            2.85,
+            0.0
+          ],
+          "hasScrew": false
+        },
+        {
+          "pos": [
+            -2.23,
+            -2.11,
+            0.0
+          ],
+          "hasScrew": false
+        },
+        {
+          "pos": [
+            -2.07,
+            2.11000013,
+            0.0
+          ],
+          "hasScrew": false
+        },
+        {
+          "pos": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "hasScrew": false
+        }
+      ],
+      "planks": [],
+      "timerOverride": {
+        "enabled": false,
+        "value": 0.0
+      }
+    }
+  ],
+  "useInRandomizer": true,
+  "overrideLevelReward": {
+    "enabled": false,
+    "value": 0
+  },
+  "powerUpsReward": [],
+  "version": 1
+}

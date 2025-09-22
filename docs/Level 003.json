@@ -1,0 +1,215 @@
+{
+  "levelId": "Level 003",
+  "stages": [
+    {
+      "holes": [
+        {
+          "pos": [
+            0.0,
+            0.26,
+            0.0
+          ],
+          "hasScrew": true
+        },
+        {
+          "pos": [
+            0.0,
+            2.55,
+            0.0
+          ],
+          "hasScrew": true
+        },
+        {
+          "pos": [
+            -1.1,
+            -1.87000012,
+            0.0
+          ],
+          "hasScrew": true
+        },
+        {
+          "pos": [
+            -2.70261,
+            -3.50576973,
+            0.0
+          ],
+          "hasScrew": true
+        },
+        {
+          "pos": [
+            1.1,
+            -1.9000001,
+            0.0
+          ],
+          "hasScrew": true
+        },
+        {
+          "pos": [
+            2.74942374,
+            -3.48855281,
+            0.0
+          ],
+          "hasScrew": true
+        },
+        {
+          "pos": [
+            -0.5,
+            5.34999943,
+            0.0
+          ],
+          "hasScrew": false
+        },
+        {
+          "pos": [
+            0.51,
+            5.34999943,
+            0.0
+          ],
+          "hasScrew": false
+        }
+      ],
+      "planks": [
+        {
+          "plankType": "Custom_shape_Rhombus",
+          "plankLayer": 5,
+          "pos": [
+            0.0,
+            1.33000016,
+            0.0
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            90.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "screwsPositions": [
+            [
+              -1.07,
+              -6.377698E-08,
+              0.0
+            ],
+            [
+              1.21999967,
+              7.27176541E-08,
+              0.0
+            ]
+          ]
+        },
+        {
+          "plankType": "Custom_shape_Rhombus",
+          "plankLayer": 5,
+          "pos": [
+            -1.84881759,
+            -2.63431168,
+            0.0
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            45.5866051
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "screwsPositions": [
+            [
+              1.06999993,
+              1.203904E-06,
+              0.0
+            ],
+            [
+              -1.22000027,
+              -1.07312633E-06,
+              0.0
+            ]
+          ]
+        },
+        {
+          "plankType": "Custom_shape_Rhombus",
+          "plankLayer": 5,
+          "pos": [
+            1.87069166,
+            -2.64224982,
+            0.0
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            136.076859
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "screwsPositions": [
+            [
+              1.07000017,
+              2.15831869E-06,
+              0.0
+            ],
+            [
+              -1.21999955,
+              -2.47956837E-06,
+              0.0
+            ]
+          ]
+        },
+        {
+          "plankType": "Custom_shape_Square_big",
+          "plankLayer": 6,
+          "pos": [
+            0.0,
+            -0.8000001,
+            0.0
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "screwsPositions": [
+            [
+              0.0,
+              1.06000006,
+              0.0
+            ],
+            [
+              -1.1,
+              -1.07,
+              0.0
+            ],
+            [
+              1.1,
+              -1.1,
+              0.0
+            ]
+          ]
+        }
+      ],
+      "timerOverride": {
+        "enabled": false,
+        "value": 0.0
+      }
+    }
+  ],
+  "useInRandomizer": true,
+  "overrideLevelReward": {
+    "enabled": false,
+    "value": 0
+  },
+  "powerUpsReward": [],
+  "version": 1
+}

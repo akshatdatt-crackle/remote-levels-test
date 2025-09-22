@@ -1,0 +1,26 @@
+{
+  "catalogVersion": 3,
+  "levels": [
+    {
+      "id": "Level 002",
+      "fileName": "Level 002.json",
+      "sha256": "9188e9d371c6639621b70786de5ef543d91e58b2018d133d26187e41ca1e022e",
+      "rev": 2,
+      "enabled": true
+    },
+    {
+      "id": "Level 003",
+      "fileName": "Level 003.json",
+      "sha256": "5fdf3d4b4c76fce2105b7b38a26d51dee72a8784e76bd553b08a85283121d733",
+      "rev": 1,
+      "enabled": true
+    },
+    {
+      "id": "Level 004",
+      "fileName": "Level 004.json",
+      "sha256": "630802c4955285fb8097070f7799d1eb42af46c9d8f82588f054a773938b745d",
+      "rev": 1,
+      "enabled": true
+    }
+  ]
+}

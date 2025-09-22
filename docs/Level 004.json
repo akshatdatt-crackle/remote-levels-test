@@ -1,0 +1,233 @@
+{
+  "levelId": "Level 004",
+  "stages": [
+    {
+      "holes": [
+        {
+          "pos": [
+            -1.34,
+            -1.11000013,
+            0.0
+          ],
+          "hasScrew": true
+        },
+        {
+          "pos": [
+            -3.33,
+            -3.15000033,
+            0.0
+          ],
+          "hasScrew": true
+        },
+        {
+          "pos": [
+            -3.33,
+            0.9499998,
+            0.0
+          ],
+          "hasScrew": true
+        },
+        {
+          "pos": [
+            3.4,
+            0.9399996,
+            0.0
+          ],
+          "hasScrew": true
+        },
+        {
+          "pos": [
+            1.34,
+            -1.11000013,
+            0.0
+          ],
+          "hasScrew": true
+        },
+        {
+          "pos": [
+            3.4,
+            -3.16000032,
+            0.0
+          ],
+          "hasScrew": true
+        },
+        {
+          "pos": [
+            0.0,
+            5.52,
+            0.0
+          ],
+          "hasScrew": false
+        }
+      ],
+      "planks": [
+        {
+          "plankType": "Custom_shape_Rhombus",
+          "plankLayer": 0,
+          "pos": [
+            0.0,
+            -1.11000013,
+            0.0
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "screwsPositions": [
+            [
+              -1.34,
+              0.0,
+              0.0
+            ],
+            [
+              1.34,
+              0.0,
+              0.0
+            ]
+          ]
+        },
+        {
+          "plankType": "Custom_shape_Rhombus",
+          "plankLayer": 3,
+          "pos": [
+            2.34,
+            -0.110000134,
+            0.0
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            44.9999962
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "screwsPositions": [
+            [
+              1.49199522,
+              -0.00707127247,
+              0.0
+            ],
+            [
+              -1.41421342,
+              -2.03502978E-07,
+              0.0
+            ]
+          ]
+        },
+        {
+          "plankType": "Custom_shape_Rhombus",
+          "plankLayer": 2,
+          "pos": [
+            2.38,
+            -2.15000033,
+            0.0
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            315.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "screwsPositions": [
+            [
+              -1.47078228,
+              -3.96839823E-08,
+              0.0
+            ],
+            [
+              1.43542671,
+              0.007071182,
+              0.0
+            ]
+          ]
+        },
+        {
+          "plankType": "Custom_shape_Rhombus",
+          "plankLayer": 2,
+          "pos": [
+            -2.32,
+            -0.05000019,
+            0.0
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            315.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "screwsPositions": [
+            [
+              1.44249773,
+              -0.05656845,
+              0.0
+            ],
+            [
+              -1.42128456,
+              -0.00707118073,
+              0.0
+            ]
+          ]
+        },
+        {
+          "plankType": "Custom_shape_Rhombus",
+          "plankLayer": 3,
+          "pos": [
+            -2.28,
+            -2.11000013,
+            0.0
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            44.9999962
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "screwsPositions": [
+            [
+              1.37178707,
+              0.0424265638,
+              0.0
+            ],
+            [
+              -1.4778533,
+              0.00707076769,
+              0.0
+            ]
+          ]
+        }
+      ],
+      "timerOverride": {
+        "enabled": false,
+        "value": 0.0
+      }
+    }
+  ],
+  "useInRandomizer": true,
+  "overrideLevelReward": {
+    "enabled": false,
+    "value": 0
+  },
+  "powerUpsReward": [],
+  "version": 1
+}
